@@ -8,6 +8,7 @@ class ColorConstant{
     Color.fromARGB(255,102,194,219),
     Color.fromARGB(255,219,101,101),
     Color.fromARGB(255,100,216,147),
+    Color.fromARGB(255,238,241,252),
     Colors.black
   ];
 }

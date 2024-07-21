@@ -1,5 +1,6 @@
 import 'package:expanses_task11/dashBoard_page.dart';
 import 'package:expanses_task11/splash_screen.dart';
+import 'package:expanses_task11/statistic.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget{
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "My App",
-      home: DashBoardPage(),
+      home: Statistic_page(),
     );
   }
 
